@@ -72,44 +72,31 @@ token-faucet-dapp/
 
 ## 📸 Screenshots
 
+## 📸 Application Screenshots
+
 ### Application Loaded
-![App Loaded](screenshots/01-app-loaded.png)
+![Application Loaded](screenshots/01-app-loaded.png)
 
 ### Wallet Connected
 ![Wallet Connected](screenshots/02-wallet-connected.png)
 
 ### MetaMask Transaction Confirmation
-![MetaMask Confirmation](screenshots/03-metamask-transaction-confirmation.png)
+![MetaMask Confirmation](screenshots/03-metamask-confirmation.png)
 
 ### Transaction In Progress
-![Transaction Pending](screenshots/04-transaction-in-progress.png)
+![Transaction Pending](screenshots/04-transaction-pending.png)
 
 ### Successful Token Claim
-![Successful Claim](screenshots/05-successful-token-claim.png)
+![Successful Token Claim](screenshots/05-successful-claim.png)
 
 ### Error / Cooldown State
-![Cooldown Error](screenshots/06-error-cooldown.png)
+![Cooldown Error](screenshots/06-cooldown-error.png)
 
 ### Health Endpoint
-![Health OK](screenshots/07-health-endpoint-ok.png)
+![Health Endpoint OK](screenshots/07-health-endpoint-ok.png)
 
-### Docker Running
+### Docker Container Running
 ![Docker Running](screenshots/08-docker-running.png)
-
----
-
-## 🎥 Video Demonstration
-
-📺 **Demo Video:**  
-(Add YouTube / Loom link here)
-
-The video demonstrates:
-- Wallet connection
-- Initial token balance
-- Successful token claim
-- Cooldown / error handling
-- Balance update after confirmation
-- Docker startup and health check
 
 ---
 
